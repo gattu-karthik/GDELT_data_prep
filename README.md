@@ -1,3 +1,6 @@
 # GDELT_data_prep
 
-1 day data has been processed, into vertices and edges
+Complete pipeline for processing the gdelt data 
+
+Can use this data for TGN successfully.
+
